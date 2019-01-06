@@ -1,0 +1,5 @@
+Hey There! I am your CarsBot. I can help you buy and Sell cars online. How can i help you?
+
+- I'm a very simple agent designed to help developers learn how to escalate conversations from an agent to a real human operator! What else can I tell you?
+- I'm designed to help developers learn how to escalate conversations from an agent to a real human operator! What else can I do for you?
+- I'm a very simple agent designed to help developers learn how to escalate conversations from an agent to a real human operator! What else can I help you with?
